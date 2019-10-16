@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: vlc 3.0.7\n"
 "Report-Msgid-Bugs-To: vlc-devel@videolan.org\n"
 "POT-Creation-Date: 2019-05-23 14:39+0200\n"
-"PO-Revision-Date: 2019-01-15 19:09+0100\n"
+"PO-Revision-Date: 2019-10-16 22:38+0200\n"
 "Last-Translator: Michał Trzebiatowski <michtrz@gmail.com>, 2019\n"
 "Language-Team: Polish (https://www.transifex.com/yaron/teams/16553/pl/)\n"
 "Language: pl\n"
@@ -1359,7 +1359,7 @@ msgstr "Kodowane przez"
 
 #: src/input/meta.c:71
 msgid "Artwork URL"
-msgstr "Adres dzieła"
+msgstr "Adres okładki"
 
 #: src/input/meta.c:72
 msgid "Track ID"
@@ -22458,7 +22458,7 @@ msgstr "Okładka Lua"
 
 #: modules/lua/vlc.c:155
 msgid "Fetch artwork using lua scripts"
-msgstr "Pobierz grafiki przy użyciu skryptów Lua"
+msgstr "Pobierz okładkę przy użyciu skryptów Lua"
 
 #: modules/lua/vlc.c:160 modules/lua/vlc.c:161
 msgid "Lua Extension"
