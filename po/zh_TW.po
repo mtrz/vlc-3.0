@@ -19,8 +19,8 @@ msgstr ""
 "Project-Id-Version: vlc 3.0.7\n"
 "Report-Msgid-Bugs-To: vlc-devel@videolan.org\n"
 "POT-Creation-Date: 2019-05-23 14:39+0200\n"
-"PO-Revision-Date: 2019-03-23 15:45+0100\n"
-"Last-Translator: Hsiu-Ming Chang <cges30901@gmail.com>, 2019\n"
+"PO-Revision-Date: 2020-01-05 15:04+0100\n"
+"Last-Translator: HULEN, 2020\n"
 "Language-Team: Chinese (Taiwan) (https://www.transifex.com/yaron/teams/16553/"
 "zh_TW/)\n"
 "Language: zh_TW\n"
@@ -10058,15 +10058,15 @@ msgstr ""
 
 #: modules/audio_output/mmdevice.c:1460
 msgid "Disabled"
-msgstr ""
+msgstr "停用"
 
 #: modules/audio_output/mmdevice.c:1461
 msgid "Enabled (AC3/DTS only)"
-msgstr ""
+msgstr "啟用 (僅 AC3/DTS)"
 
 #: modules/audio_output/mmdevice.c:1462
 msgid "Enabled"
-msgstr ""
+msgstr "啟用"
 
 #: modules/audio_output/mmdevice.c:1473
 msgid "Windows Multimedia Device output"
